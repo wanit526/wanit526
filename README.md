@@ -1,33 +1,13 @@
-# 👋 สวัสดีครับ! (Hello!)
+# 👋 Hello!
 
-ผมกำลังเรียนวิศวกรรมคอมพิวเตอร์ และสนใจด้านการพัฒนา AI และระบบอัตโนมัติสำหรับอุตสาหกรรม
-(I am a Computer Engineering student, passionate about AI development and industrial automation.)
+[cite_start]I'm **["Wanich Chawweing]**, a [e.g., 3rd] year Computer Engineering student passionate about applying programming skills to solve real-world problems. [cite: 28]
 
----
+[cite_start]I have a strong interest in **Artificial Intelligence (AI)** [cite: 15][cite_start], **Robotics** [cite: 15][cite_start], and **Automation Systems**[cite: 16]. 
 
-## 🤖 หมวดหมู่: ปัญญาประดิษฐ์ และ หุ่นยนต์ (AI & Robotics)
+[cite_start]I am actively seeking an internship opportunity to apply my knowledge from the classroom to real-world tasks [cite: 13] [cite_start]and gain hands-on experience in the industry. [cite: 12]
 
-* **[AI Robot Navigation (A* Algorithm)](https://github.com/wanit526/AI-Robot-Navigation)**
-    * โปรเจกต์จำลองการทำงานของหุ่นยนต์ AGV ในโกดัง โดยใช้ AI (อัลกอริทึม A*) ในการค้นหาเส้นทางและหลบหลีกสิ่งกีดขวาง
-    * **เทคโนโลยี:** Python, Pygame, A* Algorithm
-
-* **(ใส่โปรเจกต์ AI ชิ้นต่อไปที่นี่)**
-    * คำอธิบายโปรเจกต์...
+### 📬 Contact Me
+* **Email:** `your.email@gmail.com`
+* **LinkedIn:** `linkedin.com/in/yourprofile`
 
 ---
-
-## 🏭 หมวดหมู่: ระบบอัตโนมัติ และ IoT (Automation & IoT)
-
-* **[Digital Twin: Automatic Tank Control](https://github.com/wanit526/Digital-Tank-Simulation)**
-    * แบบจำลองระบบควบคุมถังน้ำอัตโนมัติ (Digital Twin) ที่มีโหมด Auto/Manual
-    * **เทคโนโลยี:** Python, CustomTkinter (GUI)
-
-* **(ใส่โปรเจกต์ Automation ชิ้นต่อไปที่นี่)**
-    * คำอธิบายโปรเจกต์...
-
----
-
-## 🔧 ทักษะอื่นๆ (Skills)
-
-* **ภาษา (Languages):** Python, C++, SQL, (อื่นๆ)
-* **เครื่องมือ (Tools):** VS Code, Git, GitHub, (อื่นๆ)
