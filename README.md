@@ -5,8 +5,7 @@ This profile is my personal portfolio, where I collect and showcase various proj
 Thanks for visiting!
 
 ### 📬 Contact Me
-* **Email:** `your.email@gmail.com`
-* **LinkedIn:** `linkedin.com/in/yourprofile`
+* **Email:** `wanich.chawweing@gmail.com`
 
 ---
 
