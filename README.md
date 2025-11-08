@@ -1,52 +1,14 @@
-# 👋 Hello!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Wanich Chawweing (Mai)
+===============================================================================================================================================
 
-I'm wanit526, a Computer Engineering student.
+I'm a Computer Engineering student.
+
 This profile is my personal portfolio, where I collect and showcase various projects I've worked on (both for school and for fun).
+
 Thanks for visiting!
 
-### 📬 Contact Me
-* **Email:** `wanich.chawweing@gmail.com`
+* ✉️  You can contact me at [wanich.chawweing@gmail.com](mailto:wanich.chawweing@gmail.com)
 
----
-
-# 🚀 My Projects Portfolio
-
-Here are the projects I've developed, categorized by my fields of interest:
-
----
-
-## 🤖 AI & Robotics
-*(Projects focusing on AI, Machine Learning, Deep Learning, and robotic simulations)*
-
-* **[AI Quality Control Inspector](https://github.com/wanit526/AI-Quality-Inspector)**
-    * An AI (Deep Learning) project simulating a QC inspector, deployed as a web app for user image uploads.
-    * **Tech:** Python, Streamlit, TensorFlow, Keras
-
-* **[AI Robot Navigation (A* Algorithm)](https://github.com/wanit526/AI-Robot-Nevigation.git)**
-    * A simulation of an AGV robot using the A* (AI) algorithm for pathfinding and obstacle avoidance.
-    * **Tech:** Python, Pygame, A* Algorithm
-
----
-
-## 🏭 Automation & GUI
-*(Projects focusing on control logic and desktop applications)*
-
-* **[Digital Twin: Automatic Tank Control](https://github.com/wanit526/Digital-Tank-Simulation.git)**
-    * A Digital Twin simulation of an automatic tank control system with Auto/Manual modes.
-    * **Tech:** Python, CustomTkinter (GUI)
-
----
-
-## 🌐 Web Development
-*(Projects focusing on (non-AI) front-end or back-end web applications)*
-
-* **(Coming Soon) - My personal portfolio website/blog.**
-    * *Description...*
-    * *Tech: (e.g., HTML, CSS, JavaScript, React, etc.)*
-
----
-
-## 🔧 Skills
-* **Languages:** Python, (e.g., C++, SQL, JavaScript)
-* **AI & Automation:** TensorFlow, Streamlit, Pygame, CustomTkinter
-* **Tools:** VS Code, Git, GitHub
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
+</p>
